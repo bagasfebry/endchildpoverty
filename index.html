@@ -80,18 +80,7 @@ flexibility(document.documentElement);
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-94f8e6f elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-html" data-id="94f8e6f" data-element_type="widget" data-widget_type="html.default">
 				<div class="elementor-widget-container">
-			<script>let audioButton = document.querySelector('.audio-button');   // <-- Change CSS Class Here
-       audioButton.addEventListener('click', function(){
-        var audio = document.getElementById("audio");
-
-         if (audio.paused) {
-             audio.loop=true;
-            audio.play();
-        }else{
-            audio.pause();
-            // audio.currentTime = 0
-        }
-      });</script>
+			
 
     <audio id="audio" autoplay="1" loop src="https://bagasfebry.github.io/endchildpoverty/wp-content/uploads/2023/09/WhatsApp-Audio-2023-09-16-at-14.30.50-1.mp3"></audio>		</div>
 				</div>
@@ -105,6 +94,18 @@ flexibility(document.documentElement);
 															<img decoding="async" width="1280" height="1123" src="https://bagasfebry.github.io/endchildpoverty/wp-content/uploads/2023/09/sri1.png" class="attachment-full size-full wp-image-44" alt="">															</div>
 				</div>
 				<div class="elementor-element elementor-element-b7f90ee elementor-absolute audio-button elementor-widget elementor-widget-image" data-id="b7f90ee" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+					<script>let audioButton = document.querySelector(".audio-button");   // <-- Change CSS Class Here
+       audioButton.addEventListener('click', function(){
+        var audio = document.getElementById("audio");
+
+         if (audio.paused) {
+             audio.loop=true;
+            audio.play();
+        }else{
+            audio.pause();
+            // audio.currentTime = 0
+        }
+      });</script>
 				<div class="elementor-widget-container">
 															<img decoding="async" width="150" height="150" src="https://bagasfebry.github.io/endchildpoverty/wp-content/uploads/2023/09/music-note-150x150.png" class="elementor-animation-grow attachment-thumbnail size-thumbnail wp-image-559" alt="" srcset="https://bagasfebry.github.io/endchildpoverty/wp-content/uploads/2023/09/music-note-150x150.png 150w, https://bagasfebry.github.io/endchildpoverty/wp-content/uploads/2023/09/music-note-300x300.png 300w, https://bagasfebry.github.io/endchildpoverty/wp-content/uploads/2023/09/music-note.png 512w" sizes="(max-width: 150px) 100vw, 150px">															</div>
 				</div>
