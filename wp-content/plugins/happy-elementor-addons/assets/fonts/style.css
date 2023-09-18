@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "Happy Icons";
-	src: url("/https://github.com/bagasfebry/endchildpoverty.github.io/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2") format("woff2"),
-		url("/https://github.com/bagasfebry/endchildpoverty.github.io/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff") format("woff"),
-		url("/https://github.com/bagasfebry/endchildpoverty.github.io/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.svg#happy-icons") format("svg");
+	src: url("https://bagasfebry.github.io/endchildpoverty.github.io/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2") format("woff2"),
+		url("https://bagasfebry.github.io/endchildpoverty.github.io/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff") format("woff"),
+		url("https://bagasfebry.github.io/endchildpoverty.github.io/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.svg#happy-icons") format("svg");
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;

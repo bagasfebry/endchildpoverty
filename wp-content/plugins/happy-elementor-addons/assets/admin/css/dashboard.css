@@ -731,7 +731,7 @@
 	position: relative;
 	padding-top: 25.2%;
 	border-radius: 5px;
-	background: url("/https://github.com/bagasfebry/endchildpoverty.github.io/wp-content/plugins/happy-elementor-addons/assets/imgs/admin/dashboard-header.png") no-repeat center center/cover;
+	background: url("https://bagasfebry.github.io/endchildpoverty.github.io/wp-content/plugins/happy-elementor-addons/assets/imgs/admin/dashboard-header.png") no-repeat center center/cover;
 }
 .ha-home-banner__content {
 	position: absolute;
