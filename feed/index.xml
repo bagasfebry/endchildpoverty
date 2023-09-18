@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kemiskinan Anak</title>
-	<atom:link href="https://github.com/bagasfebry/endchildpoverty.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/bagasfebry/endchildpoverty.github.io/</link>
+	<atom:link href="/https://github.com/bagasfebry/endchildpoverty.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://github.com/bagasfebry/endchildpoverty.github.io/</link>
 	<description></description>
 	<lastBuildDate>Mon, 18 Sep 2023 05:07:50 +0000</lastBuildDate>
 	<language>en-US</language>
